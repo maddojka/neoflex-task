@@ -1,0 +1,4 @@
+###
+
+GET http://localhost:8080/calculate?averageSalary=620000&vacayDays=12
+###
